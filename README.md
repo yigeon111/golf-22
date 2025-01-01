@@ -1,1 +1,1 @@
-
+echo "# golf-statistic"
